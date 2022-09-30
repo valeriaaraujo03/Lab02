@@ -1,0 +1,9 @@
+from asyncio.constants import SENDFILE_FALLBACK_READBUFFER_SIZE
+from tkinter import simpledialog
+from turtle import tilt
+
+
+computadora
+portátil
+cuaderno
+silla
