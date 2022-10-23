@@ -4,6 +4,6 @@ from turtle import tilt
 
 
 computadora
-portátil
+portatil
 cuaderno
 silla
